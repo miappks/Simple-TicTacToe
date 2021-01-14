@@ -14,5 +14,5 @@ Play TicTacToe             |  Winner found             |  No Winner
 License
 =======
 
-[See Licence File](https://github.com/miappks/Simple-TicTacToe/blob/main/LICENSE)
+Simple-TicTacToe is available under the MIT license. [See the LICENSE file for more info.](https://github.com/miappks/Simple-TicTacToe/blob/main/LICENSE)
 
