@@ -15,4 +15,4 @@ Playground also include
 License
 =======
 
-[See Licence File](https://github.com/miappks/)
+[See Licence File](https://github.com/miappks/Simple-TicTacToe/blob/main/LICENSE)
